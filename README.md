@@ -5,7 +5,7 @@
 
 由于各种原因，在国内注册 DeepL 的免费计划都十分困难。本项目可让用户在不注册账号的前提下，使用 DeepL 作为翻译服务。
 
-本插件配合 zu1k/deepl docker 镜像可使用 DeepL 翻译。
+本插件配合[ zu1k/deepl docker ](https://hub.docker.com/r/zu1k/deepl)镜像可使用 DeepL 翻译。
 
 # 配置
 ## 简介
