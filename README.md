@@ -14,9 +14,9 @@
 
 ## 具体步骤
 
-**1. 安装 Docker 或 [OrbStack · Fast, light, simple Docker & Linux on macOS](https://orbstack.dev/)**
+**1. 安装 Docker 或 OrbStack**
 
-参考： [Docker 官网](https://www.docker.com/)
+参考： [Docker 官网](https://www.docker.com/) 和 [OrbStack 官网](https://orbstack.dev/)
 
 **2. 拉取镜像**
 
