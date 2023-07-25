@@ -77,6 +77,10 @@ Mac（Apple Silicon）：
 
 其他参考链接：
 
-[求助 zu1k/deepl 镜像](https://github.com/clubxdev/bob-plugin-deeplx/issues/2)
+[ zu1k/deepl docker ](https://hub.docker.com/r/zu1k/deepl)
 
 [zu1k的项目](https://zu1k.com/projects/#deepl-free-api)
+
+[求助 zu1k/deepl 镜像](https://github.com/clubxdev/bob-plugin-deeplx/issues/2)
+
+[docker镜像分享给大家 · Issue #3 · clubxdev/bob-plugin-deeplx](https://github.com/clubxdev/bob-plugin-deeplx/issues/3)
