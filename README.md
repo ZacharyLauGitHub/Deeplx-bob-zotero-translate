@@ -71,6 +71,16 @@ Mac（Apple Silicon）：
 
 注意：端口是127.0.0.1:8080
 
+## 补充
+
+[OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX#setup-on-immersive-translate)提供了zu1k的Docker新的镜像备份和新的[Bob插件](https://github.com/missuo/bob-plugin-deeplx)
+
+```Shell
+docker run -itd -p 1188:80 missuo/deeplx-bk
+```
+可以执行上面的2、3、4步骤，端口换成1188。此外，除了可以在docker上运行，还可以在Linux Server、Mac本地运行（支持Homebrew），可以支持Bob、[Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate/pull/342)、[immersive-translate
+](https://github.com/immersive-translate/immersive-translate)和Python。
+
 ## 参考链接
 
 如果访问速度慢，可参考 [Mac 翻译软件Bob，使用免费DeepL API](https://zhuanlan.zhihu.com/p/484946276) 设置代理。
