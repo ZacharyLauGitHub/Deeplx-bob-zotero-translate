@@ -83,4 +83,4 @@ Mac（Apple Silicon）：
 
 [求助 zu1k/deepl 镜像](https://github.com/clubxdev/bob-plugin-deeplx/issues/2)
 
-[docker镜像分享给大家 · Issue #3 · clubxdev/bob-plugin-deeplx](https://github.com/clubxdev/bob-plugin-deeplx/issues/3)
+[docker镜像分享给大家](https://github.com/clubxdev/bob-plugin-deeplx/issues/3)
