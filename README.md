@@ -1,7 +1,7 @@
 # Deeplx-bob-zotero-translate
 [English](https://github.com/KyleChoy/zotero-pdf-translate/blob/CustomDeepL/README-EN.md)
 
-本项目 fork 自 [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate/pull/342) 和 [clubxdev/bob-plugin-deeplx: Bob DeepL 插件](https://github.com/clubxdev/bob-plugin-deeplx)。
+本项目 fork 自 [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate/pull/342) 和 [clubxdev/bob-plugin-deeplx](https://github.com/clubxdev/bob-plugin-deeplx)。
 
 由于各种原因，在国内注册 DeepL 的免费计划都十分困难。本项目可让用户在不注册账号的前提下，使用 DeepL 作为翻译服务。
 
