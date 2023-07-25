@@ -26,9 +26,11 @@
 docker pull kanikig/deepl-bk
 ```
 
-由于原作者 zu1k 已删除镜像，因而使用 [KANIKIG](https://github.com/KANIKIG) 的备份。
+由于原作者 zu1k 已删除镜像，因而使用 [KANIKIG](https://github.com/clubxdev/bob-plugin-deeplx/issues/3) 的备份。
 
 **3. 部署 DeepL 服务**
+
+在终端中执行：
 
 Mac（Intel）和 Windows ：
 
@@ -46,9 +48,15 @@ docker run --platform linux/amd64 -p 8080:80 -itd kanikig/deepl-bk
 
 其中，8080 是服务运行的端口，可以修改为其他数值。
 
-**4. 在 Zotero 中配置**
+**4. 在 Zotero 或 Bob 中配置**
 
-打开 Zotero - 选项 - 翻译 - 翻译引擎 - DeepL(自定义)，在密钥中输入网址。如果按照上完进行配置，则链接为： http://127.0.0.1:8080/translate
+（1）打开 Zotero - 选项 - 翻译 - 翻译引擎 - DeepL(自定义)，在密钥中输入网址。如果按照上完进行配置，则链接为： http://127.0.0.1:8080/translate
+（2）[点此下载插件]
+
+安装可以参考 这个教程
+
+插件设置里面「接口域名」修改为部署 deepl 服务的服务器域名（在本机部署无需修改）
+
 
 ## 参考链接
 
