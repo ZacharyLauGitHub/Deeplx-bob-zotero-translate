@@ -78,7 +78,9 @@ Mac（Apple Silicon）：
 ```Shell
 docker run -itd -p 1188:80 missuo/deeplx-bk
 ```
-可以执行上面的2、3、4步骤，端口换成1188。此外，除了可以在docker上运行，还可以在Linux Server、Mac本地运行（支持Homebrew），可以支持Bob、[Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate/pull/342)、[immersive-translate
+可以执行上面的2、3、4步骤，端口换成1188。
+
+此外，除了可以在docker上运行，还可以在Linux Server、Mac本地运行（支持Homebrew），可以支持Bob、[Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate/pull/342)、[immersive-translate
 ](https://github.com/immersive-translate/immersive-translate)和Python。
 
 ## 参考链接
