@@ -39,7 +39,7 @@ docker run -itd -p 8080:80 kanikig/deepl-bk
 ```
 
 
-Mac（M1/M2）：
+Mac（Apple Silicon）：
 
 ```Shell
 docker run --platform linux/amd64 -p 8080:80 -itd kanikig/deepl-bk
@@ -62,7 +62,15 @@ docker run --platform linux/amd64 -p 8080:80 -itd kanikig/deepl-bk
 
 插件设置里面「接口域名」修改为部署 deepl 服务的服务器域名（在本机部署无需修改）
 
+Mac（Intel）和 Windows ：
+
 ![](https://raw.githubusercontent.com/ZacharyLauGitHub/images/master/2023/CleanShot%202023-07-25%20at%2014.38.53%402x.png)
+
+Mac（Apple Silicon）：
+
+![](https://raw.githubusercontent.com/ZacharyLauGitHub/images/master/2023/deeplx-setting.jpg)
+
+注意：端口是127.0.0.1:8080
 
 ## 参考链接
 
