@@ -84,3 +84,7 @@ Mac（Apple Silicon）：
 [求助 zu1k/deepl 镜像](https://github.com/clubxdev/bob-plugin-deeplx/issues/2)
 
 [docker镜像分享给大家](https://github.com/clubxdev/bob-plugin-deeplx/issues/3)
+
+[KyleChoy/zotero-pdf-translate](https://github.com/KyleChoy/zotero-pdf-translate)
+
+[OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX#setup-on-immersive-translate)
