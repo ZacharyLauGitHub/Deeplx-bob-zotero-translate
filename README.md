@@ -1,5 +1,4 @@
 # Deeplx-bob-zotero-translate
-[English](https://github.com/KyleChoy/zotero-pdf-translate/blob/CustomDeepL/README-EN.md)
 
 本项目 fork 自 [clubxdev/bob-plugin-deeplx](https://github.com/clubxdev/bob-plugin-deeplx) 和 [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate/pull/342)。
 
